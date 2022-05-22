@@ -3,7 +3,7 @@
     <RouterLink to="/">Home</RouterLink>
     <RouterLink to="/about">About</RouterLink>
     <p>Hello Layout.</p>
-    <div><Content /></div>
+    <Content />
 </div>
 </template>
 

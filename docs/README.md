@@ -2,6 +2,8 @@
 This is home page.
 
 Here is a list:
+<div>
+
 * Fruits
     * Apple
     * Banana
@@ -10,3 +12,4 @@ Here is a list:
     * Monkey
     * Cat
 
+</div>
