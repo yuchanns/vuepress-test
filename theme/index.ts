@@ -1,6 +1,7 @@
-const { path } = require('@vuepress/utils')
+import { path } from '@vuepress/utils'
+import type { Theme } from 'vuepress'
 
-const theme = (_opts, _app) => {
+const CustomTheme: Theme = (_opts) => {
   return {
     name: 'vuepress-theme-test',
     layouts: {
@@ -10,4 +11,4 @@ const theme = (_opts, _app) => {
   }
 }
 
-module.exports = theme
+export default CustomTheme
