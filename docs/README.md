@@ -1,8 +1,9 @@
+<div>
+
 # Hello Vuepress
 This is home page.
 
 Here is a list:
-<div>
 
 * Fruits
     * Apple
